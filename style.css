@@ -16,12 +16,17 @@ p{
     
 }
 
+.justify{
+    color: dimgray;
+    text-align: justify;
+
+}
+
 .highlight-word{
     color: orange;
 }
 
 
-/* 1st part */
 .half-width{
     width: 38%;
     float: left;
@@ -34,6 +39,7 @@ p{
     width: 100%;
 }
 
+/* 1st part */
 .top-banner{
     background-image: url("Images/top-banner.png");
     background-repeat: no-repeat;
@@ -50,19 +56,18 @@ section{
     padding: 8px 27px;
     border-radius: 5px;
     color: white;
-    font-weight: 800px;
-   
+    font-weight: 800px; 
 }
 
 
 /* 2nd part */
-
 .dream-banner{
     background-image: url("Images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 
 }
+
 
 /* 3rd part */
 .single-experience{
